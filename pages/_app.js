@@ -10,7 +10,7 @@ const GlobalStyle = createGlobalStyle`
   }
 
   body {
-    background-color: #d9e6f6;
+    background: url(https://www.youcanseethemilkyway.com/wp-content/themes/milkyway/img/1.jpg) center no-repeat;
     font-family: sans-serif;
   }
 
